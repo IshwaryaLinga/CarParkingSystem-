@@ -1,0 +1,6 @@
+project.artifactId=${project.artifactId}
+project.version=${project.version}
+project.parent.artifactId=${project.parent.artifactId}
+project.parent.version=${project.parent.version}
+build.dateTime=${myproject.build.dateTime}
+package_name=${project.artifactId}-${project.version}.${project.packaging}
