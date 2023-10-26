@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: car-service
+  cloud:
+    config:
+      uri: ${config_server_uri}
+      use-legacy-processing: true
