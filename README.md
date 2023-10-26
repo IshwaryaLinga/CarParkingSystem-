@@ -52,3 +52,7 @@ Sprint -2 :
 
 --> In Sprint-2, We are planning to work on next three issues.
 --> We Created User stories for this sprint and we will work on these issues and push the code accordingly.
+
+--> We assigned user stories to all the team members 
+--> we are writing all the methods and classes requird for the 3 issues in our local.
+--> After that we will test the code in our local and then we will start pushing the final code to our git hub repo from tommorow.
