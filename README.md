@@ -52,6 +52,24 @@ Sprint -2 :
 
 --> In Sprint-2, We are planning to work on next three issues.
 --> We Created User stories for this sprint and we will work on these issues and push the code accordingly.
+Analyze and Design for TrafficPoliceDueVehicleController#28 - 10/22/3023
+Implement Code for TrafficPoliceDueVehicleController#29 -10/25/2023
+Analyze and Design for TrafficPoliceDueVehicleService#30 - 10/24/2023
+Implement code for TrafficPoliceDueVehicleService#31 - 10/26/2023
+TrafficPoliceDueVehicleRepository#32 - 10/21/2023
+Implement code for TrafficPoliceDueVehicleRepository#33 - 10/22/2023
+Design and Analysis for CarOwnerDueVehicleController#34
+Implement code for CarOwnerDueVehicleController#35
+Analysis for CarOwnerDueVehicleService#36 - 10/22/2023
+Implement code for CarOwnerDueVehicleService#37 - 10/24/2023
+Analysis for CarOwnerDueVehicleRepository#38 -10/26/2023
+Implement code for CarOwnerDueVehicleRepository#39 - 10/29/2023
+Analysis code for CarOwnerPaymentController#40 - 10/28/2023
+Implement code for CarOwnerPaymentController#41 - 10/31/2023
+Design and analysis for CarOwnerPaymentService#42 - 10/21/2023
+Implementation code for CarOwnerPaymentService#43 -10/23/2023
+
+
 
 --> We assigned user stories to all the team members 
 --> we are writing all the methods and classes requird for the 3 issues in our local.
